@@ -1,0 +1,112 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+
+}
+.fixedNav ul a {
+    margin-left: 30px;
+    margin-top: 3%;
+    list-style: none;
+    color: rgb(255,255,255);
+    margin-right: 40%;
+}
+
+.fixedNav li {
+    float: left;
+    margin-right: 35px;
+    font-size: 1.8em;
+    list-style: none;
+}
+
+.fixedNav ul a:hover {
+    text-decoration: none;
+    color: rgb(173, 142, 241);
+}
+
+
+
+#flickr {
+    float: left;
+    clear: both;
+    padding-right: 0px;
+    margin-right:0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 10%;
+}
+
+#flickr img {
+    height: 100px;
+    width: 9%;
+    opacity: .7;
+
+}
+
+.jumbotron {
+   margin-bottom: 60px;
+}
+
+#jumbotron h1{
+    text-align: center;
+    color: rgb(173,142,241);
+    opacity: 1;
+}
+
+#jumbotron p {
+    color: rgb(77,44,97);
+        text-align: center;
+
+}
+
+#bodyText {
+    color: rgb(77,44,97);
+}
+
+#bodyText h2 {
+    color: rgb(173,142,241);
+}
+
+#form1 {
+    width: 90%;
+}
+
+#form1 .text {
+    width: 75%;
+    margin-right: 4px;
+}
+
+#col1 {
+    margin-right: 15px;
+}
+.row {
+    width: 100%;
+    margin-left: 5%;
+    margin-right: 3%;
+}
+
+#linkedIn {
+    width: auto;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.folio {
+ 
+    width: 90%;
+    margin-left: 5%;
+    padding-right: 8px;
+    align-content: center;
+    -webkit-box-shadow: 4px 2px 8px 0px rgba(173, 142, 241, 0.25);
+    -moz-box-shadow:    4px 2px 8px 0px rgba(173, 142, 241, 0.25);
+    box-shadow:         4px 2px 8px 0px rgba(173, 142, 241, 0.25);
+}
+
+
+
